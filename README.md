@@ -1,6 +1,6 @@
 # Similarity measures for time series implemented in tensorflow.
 ## 1. Soft-Dynamic Time Warping (SDTW).
-  - Source: Cuturi (2017) - Soft-DTW: a Differentiable Loss Function for Time-Series
+  - Source: Cuturi, Blondel (2017) - Soft-DTW: a Differentiable Loss Function for Time-Series
   - Link: https://arxiv.org/pdf/1703.01541.pdf. 
 ## 2. Complexity-Invariant Distance (CID).
   - Source: Batista et al. (2011) - A Complexity-Invariant Distance Measure for Time Series.
