@@ -5,6 +5,6 @@
 ### 2. Complexity-Invariant Distance (CID).
   - Source: Batista et al. (2011) - A Complexity-Invariant Distance Measure for Time Series.
   - Link: http://www.cs.ucr.edu/~eamonn/Complexity-Invariant%20Distance%20Measure.pdf.
-### 2. Euclidean distance.
+### 2. Euclidean distance (ED).
   - Borrowed from: Guo et al. (2017) - Improved Deep Embedded Clustering with Local Structure Preservation.
   - Link: https://github.com/XifengGuo/IDEC.
