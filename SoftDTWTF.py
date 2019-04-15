@@ -82,7 +82,7 @@ class SoftDTWTF():
         """
         Softmin as defined in by Cuturi et al. (2017) - Soft-DTW: a
         Differentiable Loss Function for Time-Series. a,b,c are elements in
-        cost matric R.
+        cost matrix R.
         
         Args:
         a,    R[:,:,i-1,j]
