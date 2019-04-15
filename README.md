@@ -18,4 +18,4 @@
     - n: number of multivariate time series.
     - t: length of time series.
     - f: number of features.
-  - Borrowed from: [Guo et al. (2017) - Improved Deep Embedded Clustering with Local Structure Preservation] (https://github.com/XifengGuo/IDE)
+  - Borrowed from: [Guo et al. (2017) - Improved Deep Embedded Clustering with Local Structure Preservation](https://github.com/XifengGuo/IDE)
