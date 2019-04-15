@@ -7,7 +7,7 @@
   - File: [CIDTF.py](https://github.com/PeteWe/ts_similarity_tensorflow/blob/master/CIDTF.py)
   - Source: Batista et al. (2011) - A Complexity-Invariant Distance Measure for Time Series.
   - Link: http://www.cs.ucr.edu/~eamonn/Complexity-Invariant%20Distance%20Measure.pdf.
-### 2. Euclidean distance (ED).
+### 3. Euclidean distance (ED).
   - File: [EDTF.py](https://github.com/PeteWe/ts_similarity_tensorflow/blob/master/EDTF.py)
   - Borrowed from: Guo et al. (2017) - Improved Deep Embedded Clustering with Local Structure Preservation.
   - Link: https://github.com/XifengGuo/IDEC.
