@@ -44,7 +44,7 @@ class CIDTF():
         Y. CID is the Euclidean distance corrected by a complexity factor.
         
         Note: Currently, this is an implementation for univariate time series
-        only. Multivariate CF calculation will follow soemtime.
+        only. Multivariate CF calculation will follow sometime.
         """
         ed = CIDTF.euclidean(X,Y)        
         ce_x = CIDTF.complexity_factor(X)
